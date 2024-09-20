@@ -1,0 +1,4 @@
+http://login:pass@domain:port
+http://login:pass@domain:port
+http://login:pass@domain:port
+http://login:pass@domain:port
